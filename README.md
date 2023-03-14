@@ -1,3 +1,9 @@
+<div align="center">
+            
+  ![Belen (1)](https://i.pinimg.com/originals/15/78/4e/15784e3a5c1239e0b9a29e384c1c1736.gif)
+     </div>   
+
+
 ### Hola!! 👋
 
 - Mi nombre es **Belén Echazú,** comencé a interesarme en la programacióna principios de 2022 :computer:
